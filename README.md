@@ -120,7 +120,7 @@ Rendez-vous sur Simplonline !
 
 Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ ], puis votre lien entre parenthèses ( ).
 
-Rendez-vous sur [Simplonline](http://www.simplonline.com) !
+Rendez-vous sur [YZZY BOT](https://yzzy-bot.github.io) !
 
 ####Intégrer une image
 
@@ -130,9 +130,9 @@ Ce que vous mettez entre crochet est le texte alternatif de l'image, que nous vo
 
 Important : ça ne marche qu'avec des url d'images prises sur le web.
 
-![Simplon.co](http://simplon.co/wp-content/uploads/2015/04/if-coder-keep-coding-else-learn-with-simplon-2-600x675.png)
+![Code](https://th.bing.com/th/id/OIP.gxbox9joWpAYDjwqEf65mgHaE8?pid=Api&rs=1)
 
-Simplon.co
+Image de code
 
 ####Barre de séparation
 
