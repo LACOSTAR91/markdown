@@ -150,7 +150,7 @@ Rendez-vous sur [YZZY BOT](https://yzzy-bot.online) !
 
 Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ ], puis votre lien entre parenthèses ( ).
 
-`Rendez-vous sur [YZZY BOT](https://yzzy-bot.github.io) !`
+`Rendez-vous sur [YZZY BOT](https://yzzy-bot.online) !`
 
 -----------------
 
@@ -165,7 +165,7 @@ Important : ça ne marche qu'avec des url d'images prises sur le web.
 `![Code](https://th.bing.com/th/id/OIP.gxbox9joWpAYDjwqEf65mgHaE8?pid=Api&rs=1)`
 
 
-#### Barre de séparation
+### Barre de séparation
 
 Pour faire une barre de séparation il vous suffit d'écrire plusieurs - d'affilé. Plus vous en mettrez plus le trait sera épais.
 
