@@ -146,11 +146,11 @@ Pour faire un accent grave, il vous suffit de faire `AltGr` + `7` sur votre clav
 
 #### Mettre un lien
 
-Rendez-vous sur [YZZY BOT](https://yzzy-bot.online) !
+Rendez-vous sur [NIGHT-API](https://night-api.com) !
 
 Il vous faut le mot sur lequel vous souhaitez faire votre lien entre crochets [ ], puis votre lien entre parenthèses ( ).
 
-`Rendez-vous sur [YZZY BOT](https://yzzy-bot.online) !`
+`Rendez-vous sur [NIGHT-API](https://night-api.com) !`
 
 -----------------
 
